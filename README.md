@@ -7,10 +7,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/amir037/Vulnerability-Management-Program/)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/amir037/threat-hunting-scenario-tor)**
 - **[My First SOC Home Lab (Vultr-Based)](https://github.com/amir037/My-First-SOC-Home-Lab-Vultr-Based-)**
+
+## 🕵️‍♂️ DFIR Projects
+- **[Prefetch Lab]()**
 
 <hr/>
 
